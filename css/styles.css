@@ -1,0 +1,31 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  color: #FFFFFF;
+  background-color: #2F4F4F;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 1.5;
+}
+
+
+#audio-player {
+  color:#1a1a1a;
+  text-align:center;;
+  font-family: 'Raleway', sans-serif;
+  font-size:20px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  display: block;
+  padding-top: 20;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 20px;
+  color: #FF7F50;
+}
